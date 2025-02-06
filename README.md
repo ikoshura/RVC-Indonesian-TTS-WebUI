@@ -22,10 +22,6 @@ This project builds upon the ideas from [RVC Text-to-Speech WebUI](https://githu
    ```
 
 2. **Download Required Models** 
-
-    Place the following model files in the root directory:  
-    - `hubert_base.pt`  
-    - `rmvpe.pt`  
     
     #### **Voice Conversion Model**  
     Download the required files from the following links:  
