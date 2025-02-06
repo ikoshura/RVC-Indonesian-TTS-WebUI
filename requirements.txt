@@ -1,0 +1,8 @@
+torch
+gradio
+librosa
+g2p-id
+git+https://github.com/Tps-F/fairseq.git@main
+soundfile
+numpy
+git+https://github.com/Wikidepia/g2p-id
