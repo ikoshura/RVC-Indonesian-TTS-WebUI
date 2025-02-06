@@ -17,7 +17,7 @@ This project builds upon the ideas from [RVC Text-to-Speech WebUI](https://githu
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/RVC-Indonesian-TTS-WebUI.git
+   git clone https://github.com/ikoshura/RVC-Indonesian-TTS-WebUI.git
    cd RVC-Indonesian-TTS-WebUI
    ```
 
