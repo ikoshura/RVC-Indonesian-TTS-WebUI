@@ -83,7 +83,6 @@ This project builds upon the ideas from [RVC Text-to-Speech WebUI](https://githu
     ├── lib/                     # Library files
     ├── venv/                    # Virtual environment
     ├── weights/                 # Model weights directory
-    ├── __pycache__/             # Python cache files
     ├── .gitignore               # Git ignore file
     ├── app.py                   # Main application script
     ├── checkpoint.pth           # Model checkpoint
