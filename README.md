@@ -8,8 +8,6 @@ This project builds upon the ideas from [RVC Text-to-Speech WebUI](https://githu
 
 ![image](https://github.com/user-attachments/assets/9d79c173-f5e4-4cab-a004-066008d19424)
 
-> **Note:** This project is tested for Python 3.10 on Windows 11. Python 3.11 or later might not be supported at the moment.
-
 ---
 
 ## Install
@@ -172,9 +170,7 @@ This project integrates several components:
 
 - **Gradio WebUI:**  
   The web interface allows users to input Indonesian text, select a speaker (with readable names generated from the Coqui TTS model), adjust pitch shift and other parameters, and view both the original and converted audio outputs.
-
-The main code is located in `app.py` and related helper modules. Below is a snippet that shows key functions:
-
+  
 ## Requirements
 
 The **requirements.txt** file includes:
@@ -200,7 +196,3 @@ git+https://github.com/Wikidepia/g2p-id
 - **TTS Engine:** [Coqui TTS](https://github.com/coqui-ai/TTS)
 - **Indonesian Grapheme-to-Phoneme Conversion:** [g2p-id](https://github.com/Wikidepia/g2p-id)
 - **indonesian-tts:** [indonesian-tts](https://github.com/Wikidepia/indonesian-tts)
-
----
-
-Happy experimenting with Indonesian TTS and voice conversion!
